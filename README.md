@@ -1,5 +1,5 @@
 # art-tech-solutions
-Repositório direcionado ao projeto de controle de umidade e temperatura dos museus. 
+Repositório direcionado ao projeto de monitoração de umidade e temperatura de obras de arte. 
 
 Equipe:
 
